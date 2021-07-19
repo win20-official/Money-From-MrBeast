@@ -1,5 +1,5 @@
 # Readme
-A readme for my app
+A readme for my app.
 # How to install Python
 1. Install Python from [here](https://www.python.org/downloads/).
 2. You can select any function you want.
