@@ -5,7 +5,9 @@ A readme for my app
 2. You can select any function you want
 3. Done
 # Run my app
-Windows is: `python main.py`
-Linux is: Same as Windows.
-MacOS is: `python3 main.py`
+
+**Run**: To run my app you need python
+1. Windows is: ``python main.py``
+2. Linux is: Same as Windows.
+3. MacOS is: ``python3 main.py``
 
