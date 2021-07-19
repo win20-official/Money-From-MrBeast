@@ -6,7 +6,7 @@ A readme for my app
 3. Done.
 # Run my app
 
-**Run**: To run my app you need python
+**Run**: To run my app you need Python.
 1. Windows is: ``python main.py``
 2. Linux is: Same as Windows.
 3. MacOS is: ``python3 main.py``
