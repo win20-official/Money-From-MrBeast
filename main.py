@@ -3,6 +3,7 @@ import os as o
 print("Hello to MrBeast money game")
 name = input("What is your name? ")
 print(f"OK, {name} let's start")
+input()
 o.system("cls")
 
 money = input("Do you want get MrBeast money? yes or no: ")
