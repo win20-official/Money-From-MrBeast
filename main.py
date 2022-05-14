@@ -1,8 +1,8 @@
 import os as o
-from getpythonfiles import getbypath
 
-path = o.getcwd()
-getbypath.path(f"{path}/intro/main.py")
+print("Hello to MrBeast money game")
+name = input("What is your name? ")
+print(f"OK, {name} let's start")
 o.system("cls")
 
 money = input("Do you want get MrBeast money? yes or no: ")
